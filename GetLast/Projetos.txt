@@ -1,0 +1,4 @@
+﻿MSBUILDPATH:C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\MSBuild.exe
+MSTFPATH:C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe
+VERSIONPATH:C:\workspace
+C:\workspace\SolutionExemplo\{0}\SolutionExemplo\SolutionExemplo.sln, $/SolutionExemplo/{0}/SolutionExemplo

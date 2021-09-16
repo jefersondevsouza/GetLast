@@ -1,0 +1,8 @@
+C:\Users\jsilveira\Desktop\GetLast\bin\Debug\Projetos.txt
+C:\Users\jsilveira\Desktop\GetLast\bin\Debug\GetLast.exe.config
+C:\Users\jsilveira\Desktop\GetLast\bin\Debug\GetLast.exe
+C:\Users\jsilveira\Desktop\GetLast\bin\Debug\GetLast.pdb
+C:\Users\jsilveira\Desktop\GetLast\obj\Debug\GetLast.csproj.CoreCompileInputs.cache
+C:\Users\jsilveira\Desktop\GetLast\obj\Debug\GetLast.exe
+C:\Users\jsilveira\Desktop\GetLast\obj\Debug\GetLast.pdb
+C:\Users\jsilveira\Desktop\GetLast\obj\Debug\GetLast.csprojAssemblyReference.cache
